@@ -1,0 +1,19 @@
+.header {
+  padding: 0 24px;
+  height: 64px;
+  line-height: normal;
+}
+
+.headerFlex {
+  height: 100%;
+}
+
+.title {
+  color: #fff;
+  margin: 0;
+}
+
+.searchInput {
+  width: 500px;
+}
+
